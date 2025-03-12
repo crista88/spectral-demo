@@ -1,45 +1,33 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Spectral (Modified by DOITpro WEB)
 
+Original Template by HTML5 UPfor personal and commercial use under the CC BY 3.0 license (html5up.net/license)
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+About This Template
 
-- It's built with components from my Responsive Tools project.
+This version of Spectral has been modified and enhanced by DOITpro WEB, based on the original template created by HTML5 UP. It retains the modern, blocky, fully responsive design but includes additional refinements and customizations.
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+Modifications by DOITpro WEB
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+Customized layout & enhanced styling for a more polished look.
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+Replaced demo images with a mix of personal images and Pexels free images.
 
-- A ton of other stuff.
+Refined navigation and UI elements for better user experience.
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
+Optimized responsiveness & improved visual hierarchy.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Demo Images
 
-(* = not included)
+New Demo Images: Pexels (pexels.com) & custom images by DOITpro WEB
 
-AJ
-aj@lkn.io | @ajlkn
+Credits
 
+Original Template: HTML5 UP 
 
-Credits:
+Icons: Font Awesome (fontawesome.io)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Other Libraries:
 
-	Icons:
-		Font Awesome (fontawesome.io)
+jQuery (jquery.com)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
